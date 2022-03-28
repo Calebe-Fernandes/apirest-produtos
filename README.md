@@ -4,7 +4,7 @@ aprendizado de Java SpringBoot
 
 <h1 align="center">
 <br>
-  <img src="https://miro.medium.com/max/490/1*nG91BKHaogGIlnbhzOKpfw.png" alt="SpringBoot" width="650">
+  <img src="https://miro.medium.com/max/490/1*nG91BKHaogGIlnbhzOKpfw.png" alt="SpringBoot" width="350">
 <br>
 <br>
   
